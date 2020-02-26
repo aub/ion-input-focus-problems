@@ -1,0 +1,7 @@
+{
+  "name": "focus-problems-ii",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

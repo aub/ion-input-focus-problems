@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "focus-problems-ii",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
